@@ -4,3 +4,5 @@ version = "0.1.0"
 authors = ["chickenbreeder <chickenbreeder@users.noreply.github.com>"]
 
 [dependencies]
+hyper = "0.11.2"
+futures = "0.1.14"
