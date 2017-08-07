@@ -2,6 +2,9 @@
 name = "krebs"
 version = "0.1.0"
 authors = ["chickenbreeder <chickenbreeder@users.noreply.github.com>"]
+license = "MIT"
+repository = "https://github.com/chickenbreeder/krebs"
+
 
 [dependencies]
 hyper = "0.11.2"
