@@ -1,0 +1,6 @@
+[package]
+name = "krebs"
+version = "0.1.0"
+authors = ["chickenbreeder <chickenbreeder@users.noreply.github.com>"]
+
+[dependencies]
